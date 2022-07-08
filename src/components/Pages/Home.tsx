@@ -1,4 +1,3 @@
-/* This example requires Tailwind CSS v2.0+ */
 import { Fragment, useEffect, useState } from 'react'
 import { Popover, Transition } from '@headlessui/react'
 import { MenuIcon, XIcon } from '@heroicons/react/outline'
@@ -9,7 +8,6 @@ import Navbar, { navigation } from '../Navbar'
 
 
 export default function Home() {
-  const [typeContent, setTypeContent] = useState('')
   navigation.forEach(element => {
     element.current = false
   });
@@ -119,7 +117,7 @@ export default function Home() {
         <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
           <img
             className="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full"
-            src="https://source.unsplash.com/1600x900/?school"
+            src="https://images.theconversation.com/files/339942/original/file-20200604-67393-1dej576.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=900.0&fit=crop"
             alt=""
           />
         </div>
