@@ -1,0 +1,38 @@
+[
+    {
+        "category": "Computers",
+        "title": "Machine Learning Full Course",
+        "description": "Complete Machine Learning Course in 17 hours by Ron Swanman from Chicago University.",
+        "image": "https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?format=jpg&width=960"
+    },
+    {
+        "category": "Mathematics",
+        "title": "Integral Calculus",
+        "description": "Complete college-level Integral Calculus Course in 50 hours by Rohan Chatterjee from IIT Bombay.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy52G00-Lf-SEHTqJORqpPlpavoJHTHfyltQ&usqp=CAU"
+    },
+    {
+        "category": "Entrepreneurship",
+        "title": "All about Entrepreneurship",
+        "description": "Get a complete guide about who entrepreneurs really are, their thinking process and their personal secrets in 5 hours.",
+        "image": "https://www.incimages.com/uploaded_files/image/1920x1080/getty_505473502_346213.jpg"
+    },
+    {
+        "category": "Books",
+        "title": "Absorb books like a sponge!",
+        "description": "Ever wondered how Bill Gates, Warren Buffet manage to read 50 books a year? Come and find out their secret in this 3 hours course.",
+        "image": "https://images.theconversation.com/files/45159/original/rptgtpxd-1396254731.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
+    },
+    {
+        "category": "Mystery",
+        "title": "All about Demonology",
+        "description": "Take a chance on this rare and unique course to better understand spirits, exorcisms etc",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51JPMDV3MTL.jpg"
+    },
+    {
+        "category": "Defence",
+        "title": "Self-defence and Karate",
+        "description": "Richard Hooks teach in this course the basics of karate and self-defence techniques",
+        "image": "https://youthincmag.com/wp-content/uploads/2019/02/self-defense.jpg"
+    }
+]
