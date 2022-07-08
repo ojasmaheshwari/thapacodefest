@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/thapacodefest/static/css/main.db59088d.css",
-    "main.js": "/thapacodefest/static/js/main.3b750bbf.js",
+    "main.js": "/thapacodefest/static/js/main.01877e6a.js",
     "index.html": "/thapacodefest/index.html",
     "main.db59088d.css.map": "/thapacodefest/static/css/main.db59088d.css.map",
-    "main.3b750bbf.js.map": "/thapacodefest/static/js/main.3b750bbf.js.map"
+    "main.01877e6a.js.map": "/thapacodefest/static/js/main.01877e6a.js.map"
   },
   "entrypoints": [
     "static/css/main.db59088d.css",
-    "static/js/main.3b750bbf.js"
+    "static/js/main.01877e6a.js"
   ]
 }
